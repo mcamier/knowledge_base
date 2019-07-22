@@ -8,3 +8,4 @@
 - The Clean coder
 - Clean architecture
 - Kubernetes: Up and running
+- CMake in practice
