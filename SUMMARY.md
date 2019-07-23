@@ -14,7 +14,10 @@
 - [Docker](/infra/docker.md)
 
 ## Java
-- [Reactor](java/reactor.md)
+- [Reactor](/java/reactor.md)
+
+## Testing
+- [Selenium WebDriver wait](/test/selenium.md)
 
 ## Frontend
 - [React](https://reactjs.org)
