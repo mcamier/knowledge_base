@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [Pluralsight](https://app.pluralsight.com/)
 - [Udemy](https://www.udemy.com/)
     - [Docker Mastery](https://www.udemy.com/docker-mastery/)
     - [Linux Administration bootcamp](https://www.udemy.com/linux-administration-bootcamp/)
