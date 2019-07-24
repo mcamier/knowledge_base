@@ -6,6 +6,7 @@
 
 ## Architecture
 - [Hexagonal architecture](/archi/hexagonal.md)
+- [Non blocking IO](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
 
 ## Databases
 - [mongodb](/db/mongodb.md)
