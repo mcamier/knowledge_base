@@ -9,6 +9,8 @@ Successful quality control begins at the unit test level, right on the developer
 
 - https://www.owasp.org/images/1/1b/Webservice_and_Microservice_Security_-_Jim_Manico.pdf
 
+# SSL TLS
+- https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange
 
 # a deplacer 
 SLA pour micro services
