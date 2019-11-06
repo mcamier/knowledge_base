@@ -24,3 +24,6 @@ Est ce que l'architecture de mon projet me permet un scaling horizontale ? (base
 Autre point a inclure dans la SLA :
  - heures de fonctionnement mandatory a cause de copie de données d'un système externe vers la bdd du micro-service
  - les requirements de sécurité : token d'authentication, encryption de la connection via SSL
+
+
+- https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction
