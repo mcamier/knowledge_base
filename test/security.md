@@ -14,3 +14,13 @@ Successful quality control begins at the unit test level, right on the developer
 SLA pour micro services
 - https://team.goodeggs.com/writing-microservice-slas-eb7cfa387b31
 - https://www.microservice-api-patterns.org/quickstart
+
+Ecrire une SLA est une pratique utile dans la mesure ou elle va permettre de se poser des questions encore ignorées.
+Est ce que j'assure une haute disponibilité ?
+Quelles sont les performances que je dois garantir pour mes consumers ?
+Si mon nombre de consumer augmentent significativement, puis-je assurer a nouveau la performance garantie en effectuant un scaling vertical/horizontal ?
+Est ce que l'architecture de mon projet me permet un scaling horizontale ? (base de données)
+
+Autre point a inclure dans la SLA :
+ - heures de fonctionnement mandatory a cause de copie de données d'un système externe vers la bdd du micro-service
+ - les requirements de sécurité : token d'authentication, encryption de la connection via SSL
